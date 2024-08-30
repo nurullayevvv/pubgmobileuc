@@ -3,14 +3,17 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0; /* Orqa fon rangi */
+    background-color: #f0f0f0; /* Orqa fon rangi */ 
+    background-image: url(lpubg.jpeg); 
+    background-repeat: no-repeat; 
+    background-size: cover;
 }
 
 /* Header */
 header {
     text-align:left;
     padding: 20px;
-    background-color: #007bff; /* Header orqa fon rangi */
+    background-color: #007bff67; /* Header orqa fon rangi */
     color: #f7f7f7; /* Matn rangi */
     border-bottom: 3px solid #0056b3; /* Header ostki chizig'i */
 }
@@ -58,7 +61,7 @@ h1 {
     align-items: center;
     padding: 15px;
     border: 1px solid #ccc;
-    background-color: #ffffff; /* Orqa fon rangi */
+    background-color: #ffffffc7; /* Orqa fon rangi */
     border-radius: 8px;
     width: 150px;
     text-align: center;
@@ -85,7 +88,7 @@ h1 {
     max-width: 500px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #ffffff; /* Orqa fon rangi */
+    background-color: #ffffffc4; /* Orqa fon rangi */
     border: 1px solid #ddd; /* Chegara rangi */
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soya qo'shish */
